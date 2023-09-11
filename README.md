@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudo-xda
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently doing masters in Electronics 
+- 🌱 Masters in Electronics 
 - 📫 Reach me @>> t.me/sudo_xda
 
 <!---
